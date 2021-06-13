@@ -1,5 +1,6 @@
 # Coffee_Ordering
-The app i have made it using Flutter Framework and dart as frontend and FireBase as database where i use authentication and real time database functionality of it
+The app i have made it using Flutter Framework and dart as frontend and FireBase as database where i use authentication and real time database functionality of it.Code in master
+
 ![Screenshot_1623565747](https://user-images.githubusercontent.com/56622301/121797671-6128c580-cc3f-11eb-81e2-7bb9f4599b74.png)
 ![Screenshot_1623565751](https://user-images.githubusercontent.com/56622301/121797672-6259f280-cc3f-11eb-8631-8d2ad066aace.png)
 ![Screenshot_1623565777](https://user-images.githubusercontent.com/56622301/121797674-62f28900-cc3f-11eb-8b7d-eda88806e412.png)
